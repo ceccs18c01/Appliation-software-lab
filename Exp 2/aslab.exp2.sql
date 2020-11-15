@@ -13,7 +13,7 @@ CREATE TABLE Employee (
 INSERT INTO Employee (`code`, `name`, `designation`, `dob`, `salary`)
 VALUES 
 ("e2", "John", "Manager", "1990-4-12", 41250),
-("e1","peter", "Sales", "1994-3-22", 18500);
+("e1","Chris", "Sales", "1994-3-22", 18500);
 
 #3
 SELECT * FROM Employee;
