@@ -6,7 +6,7 @@ CREATE TABLE Class (
 
 
 -- (b) Insert values into the table --
-INSERT INTO Class (`name`) VALUES ("COBRA"), ("SUSAN"), ("BAKER");
+INSERT INTO Class (`name`) VALUES ("KIRAN"), ("CHHRISTY"), ("BAAHIR");
 
 -- (c) Display the table --
 SELECT * FROM Class;
